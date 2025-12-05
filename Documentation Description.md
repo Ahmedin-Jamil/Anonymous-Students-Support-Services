@@ -1,7 +1,10 @@
 # Anonymous-Students-Support-Services
+
 I've created a comprehensive multi-service student support platform for my internship project.
 
-Quick Start
+## Quick Start
+
+```bash
 # Install dependencies
 npm install
 
@@ -10,7 +13,9 @@ npm run dev
 
 # Build for production
 npm run build
-Documentation
+
+
+# Documentation
 Document Description
 SYSTEM_DOCUMENTATION.md
 Technical documentation, architecture, database schema
@@ -22,8 +27,8 @@ Technology Stack
 •	Hosting: Netlify
 Environment Variables
 Create a .env file:
-VITE_SUPABASE_URL=your-supabase-url
-VITE_SUPABASE_ANON_KEY=your-anon-key
+VITE_SUPABASE_URL
+VITE_SUPABASE_ANON_KEY
 Features
 •	Anonymous student reporting with AI emotion detection
 •	3D Gamified career development (Career Clues)
